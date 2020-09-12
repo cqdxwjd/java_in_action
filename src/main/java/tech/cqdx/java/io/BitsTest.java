@@ -15,13 +15,15 @@ public class BitsTest {
         byte b = 'a';
 
         for (int i = 0; i < 255; i++) {
-            System.out.println(i+"---"+(char) i);
+            System.out.println(i + "---" + (char) i);
         }
-        byte[] barray = {1, 2, 3};
+        byte[] barray = {1, 2, 97};
 
 //        System.out.println(b);
         boolean aBoolean = BitsTest.getBoolean(barray, 1);
         System.out.println(barray[1]);
         System.out.println(aBoolean);
+
+        System.out.println(getChar(barray, 2));
     }
 }
