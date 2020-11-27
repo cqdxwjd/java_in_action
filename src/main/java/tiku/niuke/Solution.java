@@ -1,4 +1,4 @@
-package tech.cqdx.niuke.tiku;
+package tiku.niuke;
 
 public class Solution {
 
