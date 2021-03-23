@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/xiaomi/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/xiaomi/BitAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/xiaomi/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/xiaomi/SHE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/xiaomi/TwoDimensionArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_in_action.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java_in_action.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desp/ObjectUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tiku/likou/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tiku/likou/bean/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tiku/niuke/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java_in_action-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,13 +272,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -338,8 +340,17 @@
       <workItem from="1605766867942" duration="6922000" />
       <workItem from="1606104825179" duration="5092000" />
       <workItem from="1606190318918" duration="607000" />
-      <workItem from="1616402795965" duration="4609000" />
+      <workItem from="1616402795965" duration="4901000" />
+      <workItem from="1616465409936" duration="1973000" />
     </task>
+    <task id="LOCAL-00001" summary="xiaomi interview questions">
+      <created>1616407682073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616407682073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -433,6 +444,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xiaomi interview questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="xiaomi interview questions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
