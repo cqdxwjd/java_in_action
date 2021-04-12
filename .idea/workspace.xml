@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/MyBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/desp/ObjectUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tiku/likou/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tiku/likou/bean/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tiku/niuke/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/java_in_action-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +57,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Bits.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -206,7 +201,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/desp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
+  <component name="RunManager" selected="Application.MyBits">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.BinaryTree" />
       <module name="java_in_action" />
@@ -233,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.Distance" />
+    <configuration name="MyBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.MyBits" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.xiaomi.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,33 +267,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Distance" />
       <item itemvalue="Application.SHE" />
       <item itemvalue="Application.BitAnd" />
       <item itemvalue="Application.BinaryTree" />
       <item itemvalue="Application.TwoDimensionArrays" />
+      <item itemvalue="Application.MyBits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBits" />
         <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.TwoDimensionArrays" />
         <item itemvalue="Application.BitAnd" />
         <item itemvalue="Application.SHE" />
-        <item itemvalue="Application.Distance" />
       </list>
     </recent_temporary>
   </component>
@@ -342,6 +335,8 @@
       <workItem from="1606190318918" duration="607000" />
       <workItem from="1616402795965" duration="4901000" />
       <workItem from="1616465409936" duration="1973000" />
+      <workItem from="1616479736374" duration="1221000" />
+      <workItem from="1616550187734" duration="16335000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -350,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616407682073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="amend">
+      <created>1616479748084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616479748084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -448,7 +450,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xiaomi interview questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="xiaomi interview questions" />
+    <MESSAGE value="amend" />
+    <option name="LAST_COMMIT_MESSAGE" value="amend" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
