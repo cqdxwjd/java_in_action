@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/MyBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/EncodingDetect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/MyBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/MyBits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,31 +27,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tiku/likou/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tiku/likou/bean/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -57,9 +36,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Bits.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -200,8 +176,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/desp" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MyBits">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.BinaryTree" />
       <module name="java_in_action" />
@@ -241,15 +220,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SHE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.SHE" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.xiaomi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,19 +252,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SHE" />
       <item itemvalue="Application.BitAnd" />
       <item itemvalue="Application.BinaryTree" />
       <item itemvalue="Application.TwoDimensionArrays" />
       <item itemvalue="Application.MyBits" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyBits" />
         <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.TwoDimensionArrays" />
         <item itemvalue="Application.BitAnd" />
-        <item itemvalue="Application.SHE" />
       </list>
     </recent_temporary>
   </component>
@@ -337,6 +310,13 @@
       <workItem from="1616465409936" duration="1973000" />
       <workItem from="1616479736374" duration="1221000" />
       <workItem from="1616550187734" duration="16335000" />
+      <workItem from="1618370439037" duration="304000" />
+      <workItem from="1618565121898" duration="652000" />
+      <workItem from="1618565835574" duration="120000" />
+      <workItem from="1618565990354" duration="3670000" />
+      <workItem from="1618622432173" duration="5974000" />
+      <workItem from="1618629305108" duration="87000" />
+      <workItem from="1618631094192" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -454,11 +434,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="amend" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint enabled="true" type="java-exception" />
-      </default-breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="dir.length()" />
+        <watch expression="absolutePath.substring(dir.length())" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
