@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/EncodingDetect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="amend">
+      <change afterPath="$PROJECT_DIR$/src/main/java/performing/CPUScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/MyBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/MyBits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +177,7 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.CPUScheduler">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.BinaryTree" />
       <module name="java_in_action" />
@@ -194,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitAnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.xiaomi.BitAnd" />
+    <configuration name="CPUScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="performing.CPUScheduler" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.xiaomi.*" />
+          <option name="PATTERN" value="performing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BitAnd" />
       <item itemvalue="Application.BinaryTree" />
       <item itemvalue="Application.TwoDimensionArrays" />
       <item itemvalue="Application.MyBits" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CPUScheduler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CPUScheduler" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyBits" />
         <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.TwoDimensionArrays" />
-        <item itemvalue="Application.BitAnd" />
       </list>
     </recent_temporary>
   </component>
@@ -317,6 +314,8 @@
       <workItem from="1618622432173" duration="5974000" />
       <workItem from="1618629305108" duration="87000" />
       <workItem from="1618631094192" duration="7909000" />
+      <workItem from="1622938212585" duration="122000" />
+      <workItem from="1622938350474" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
