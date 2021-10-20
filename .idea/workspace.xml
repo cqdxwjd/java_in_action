@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="cpu test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ10Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ3Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ4Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ5Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ6Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ7Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ8Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ9Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/TencentTest.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20211019">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ11Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ12Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ13Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ14Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ15Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ16Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ10Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ10Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/TencentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/tecent/TencentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,13 +190,13 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HJ9Main">
-    <configuration name="HJ6Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ6Main" />
+  <component name="RunManager" selected="Application.HJ16Main">
+    <configuration name="HJ10Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ10Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="tiku.niuke.tecent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ7Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ7Main" />
+    <configuration name="HJ13Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ13Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="tiku.niuke.tecent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ8Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ8Main" />
+    <configuration name="HJ14Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ14Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="tiku.niuke.tecent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ9Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ9Main" />
+    <configuration name="HJ15Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ15Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="tiku.niuke.tecent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TencentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.TencentTest" />
+    <configuration name="HJ16Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ16Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="tiku.niuke.tecent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +268,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HJ6Main" />
-      <item itemvalue="Application.TencentTest" />
-      <item itemvalue="Application.HJ7Main" />
-      <item itemvalue="Application.HJ8Main" />
-      <item itemvalue="Application.HJ9Main" />
+      <item itemvalue="Application.HJ10Main" />
+      <item itemvalue="Application.HJ13Main" />
+      <item itemvalue="Application.HJ14Main" />
+      <item itemvalue="Application.HJ15Main" />
+      <item itemvalue="Application.HJ16Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HJ9Main" />
-        <item itemvalue="Application.HJ8Main" />
-        <item itemvalue="Application.HJ7Main" />
-        <item itemvalue="Application.TencentTest" />
-        <item itemvalue="Application.HJ6Main" />
+        <item itemvalue="Application.HJ16Main" />
+        <item itemvalue="Application.HJ15Main" />
+        <item itemvalue="Application.HJ14Main" />
+        <item itemvalue="Application.HJ13Main" />
+        <item itemvalue="Application.HJ10Main" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +338,7 @@
       <workItem from="1623204478749" duration="3725000" />
       <workItem from="1633921156982" duration="10802000" />
       <workItem from="1634031499161" duration="442000" />
-      <workItem from="1634097171354" duration="12409000" />
+      <workItem from="1634097171354" duration="25446000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -363,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623029335787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20211019">
+      <created>1634623812101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634623812101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -463,9 +468,19 @@
     <MESSAGE value="xiaomi interview questions" />
     <MESSAGE value="amend" />
     <MESSAGE value="cpu test" />
-    <option name="LAST_COMMIT_MESSAGE" value="cpu test" />
+    <MESSAGE value="20211019" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211019" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ16Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="dir.length()" />
