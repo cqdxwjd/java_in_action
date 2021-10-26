@@ -51,5 +51,6 @@ public class HJ16Main {
             }
         }
         System.out.println(dp[m]);
+        sc.close();
     }
 }

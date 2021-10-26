@@ -23,5 +23,6 @@ public class HJ3Main {
                 System.out.println(integer);
             }
         }
+        sc.close();
     }
 }

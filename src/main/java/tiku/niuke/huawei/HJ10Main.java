@@ -23,5 +23,6 @@ public class HJ10Main {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

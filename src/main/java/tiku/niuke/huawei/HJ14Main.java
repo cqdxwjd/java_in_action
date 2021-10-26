@@ -24,5 +24,6 @@ public class HJ14Main {
         for (String s : list) {
             System.out.println(s);
         }
+        sc.close();
     }
 }

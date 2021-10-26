@@ -12,5 +12,6 @@ public class HJ7Main {
         Scanner sc = new Scanner(System.in);
         double v = sc.nextDouble();
         System.out.println(Math.round(v));
+        sc.close();
     }
 }

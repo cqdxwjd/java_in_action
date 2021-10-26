@@ -23,5 +23,6 @@ public class HJ4Main {
             }
             System.out.println(finalLine);
         }
+        sc.close();
     }
 }

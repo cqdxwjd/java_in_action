@@ -14,5 +14,6 @@ public class HJ12Main {
         StringBuilder sb = new StringBuilder(s);
         sb.reverse();
         System.out.println(sb);
+        sc.close();
     }
 }

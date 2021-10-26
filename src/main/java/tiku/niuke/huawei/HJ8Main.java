@@ -26,14 +26,15 @@ package tiku.niuke.huawei;
 //}
 
 import java.util.*;
+
 public class HJ8Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int tableSize = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int tableSize = sc.nextInt();
         Map<Integer, Integer> table = new HashMap<>(tableSize);
         for (int i = 0; i < tableSize; i++) {
-            int key = scanner.nextInt();
-            int value = scanner.nextInt();
+            int key = sc.nextInt();
+            int value = sc.nextInt();
             if (table.containsKey(key)) {
                 table.put(key, table.get(key) + value);
             } else {
@@ -42,7 +43,8 @@ public class HJ8Main {
         }
 //        TreeSet<Integer> treeSet = new TreeSet<>(table.keySet());
         for (Integer key : table.keySet()) {
-            System.out.println( key + " " + table.get(key));
+            System.out.println(key + " " + table.get(key));
         }
+        sc.close();
     }
 }

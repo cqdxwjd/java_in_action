@@ -21,5 +21,6 @@ public class HJ13Main {
             }
         }
         System.out.println(sb);
+        sc.close();
     }
 }

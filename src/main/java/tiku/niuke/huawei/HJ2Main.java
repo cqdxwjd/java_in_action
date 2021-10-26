@@ -19,5 +19,6 @@ public class HJ2Main {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

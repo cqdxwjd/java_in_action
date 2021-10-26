@@ -23,5 +23,6 @@ public class HJ9Main {
             }
         }
         System.out.println(sb);
+        sc.close();
     }
 }

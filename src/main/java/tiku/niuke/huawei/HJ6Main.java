@@ -21,5 +21,6 @@ public class HJ6Main {
             }
         }
         System.out.println(num == 1 ? "" : num + " ");
+        sc.close();
     }
 }

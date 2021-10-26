@@ -20,5 +20,6 @@ public class HJ15Main {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

@@ -15,5 +15,6 @@ public class HJ5Main {
             Integer n = Integer.valueOf(line, 16);
             System.out.println(n);
         }
+        sc.close();
     }
 }
