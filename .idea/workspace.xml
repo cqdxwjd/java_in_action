@@ -4,12 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20211026">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ37Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ38Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ39Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ40Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ41Main.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ42Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ43Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ44Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ44Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ45Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ45Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ46Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ48Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ50Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ51Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ52Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ53Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ53Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ54Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ55Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ56Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,9 +200,9 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HJ41Main">
-    <configuration name="HJ37Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ37Main" />
+  <component name="RunManager" selected="Application.HJ56Main">
+    <configuration name="HJ52Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ52Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -202,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ38Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ38Main" />
+    <configuration name="HJ53Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ53Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -215,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ39Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ39Main" />
+    <configuration name="HJ53Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ53Main2" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -228,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ40Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ40Main" />
+    <configuration name="HJ54Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ54Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -241,8 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ41Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ41Main" />
+    <configuration name="HJ56Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ56Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -254,31 +266,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HJ37Main" />
-      <item itemvalue="Application.HJ38Main" />
-      <item itemvalue="Application.HJ39Main" />
-      <item itemvalue="Application.HJ40Main" />
-      <item itemvalue="Application.HJ41Main" />
+      <item itemvalue="Application.HJ52Main" />
+      <item itemvalue="Application.HJ53Main" />
+      <item itemvalue="Application.HJ53Main2" />
+      <item itemvalue="Application.HJ54Main" />
+      <item itemvalue="Application.HJ56Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HJ41Main" />
-        <item itemvalue="Application.HJ40Main" />
-        <item itemvalue="Application.HJ39Main" />
-        <item itemvalue="Application.HJ38Main" />
-        <item itemvalue="Application.HJ37Main" />
+        <item itemvalue="Application.HJ56Main" />
+        <item itemvalue="Application.HJ54Main" />
+        <item itemvalue="Application.HJ53Main2" />
+        <item itemvalue="Application.HJ53Main" />
+        <item itemvalue="Application.HJ52Main" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +352,8 @@
       <workItem from="1634031499161" duration="442000" />
       <workItem from="1634097171354" duration="97115000" />
       <workItem from="1635242392403" duration="772000" />
-      <workItem from="1635243173442" duration="12234000" />
+      <workItem from="1635243173442" duration="12340000" />
+      <workItem from="1635331576807" duration="70307000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -382,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635237655390</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20211027">
+      <created>1635314571757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635314571757</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -485,7 +507,8 @@
     <MESSAGE value="20211019" />
     <MESSAGE value="20211019华为机试题练习" />
     <MESSAGE value="20211026" />
-    <option name="LAST_COMMIT_MESSAGE" value="20211026" />
+    <MESSAGE value="20211027" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211027" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,14 +528,28 @@
           <line>58</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ43Main.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ50Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ51Main.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ54Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dir.length()" />
-        <watch expression="absolutePath.substring(dir.length())" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_in_action$HJ25Main.ic" NAME="HJ25Main Coverage Results" MODIFIED="1634891221192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
