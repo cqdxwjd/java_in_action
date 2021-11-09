@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ57Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ58Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ59Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ60Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ61Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ62Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ63Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ64Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ65Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ66Main.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20211103">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ67Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ68Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ69Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ70Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ71Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/SortCombine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ66Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ66Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,9 +190,9 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HJ65Main">
-    <configuration name="HJ60Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ60Main" />
+  <component name="RunManager" selected="Application.HJ71Main">
+    <configuration name="HJ67Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ67Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -207,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ61Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ61Main" />
+    <configuration name="HJ68Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ68Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +217,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ63Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ63Main" />
+    <configuration name="HJ69Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ69Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -233,8 +230,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ64Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ64Main" />
+    <configuration name="HJ70Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ70Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -246,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HJ65Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ65Main" />
+    <configuration name="HJ71Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ71Main" />
       <module name="java_in_action" />
       <extension name="coverage">
         <pattern>
@@ -255,35 +252,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HJ60Main" />
-      <item itemvalue="Application.HJ61Main" />
-      <item itemvalue="Application.HJ63Main" />
-      <item itemvalue="Application.HJ64Main" />
-      <item itemvalue="Application.HJ65Main" />
+      <item itemvalue="Application.HJ67Main" />
+      <item itemvalue="Application.HJ68Main" />
+      <item itemvalue="Application.HJ69Main" />
+      <item itemvalue="Application.HJ70Main" />
+      <item itemvalue="Application.HJ71Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HJ65Main" />
-        <item itemvalue="Application.HJ64Main" />
-        <item itemvalue="Application.HJ63Main" />
-        <item itemvalue="Application.HJ61Main" />
-        <item itemvalue="Application.HJ60Main" />
+        <item itemvalue="Application.HJ71Main" />
+        <item itemvalue="Application.HJ70Main" />
+        <item itemvalue="Application.HJ69Main" />
+        <item itemvalue="Application.HJ68Main" />
+        <item itemvalue="Application.HJ67Main" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +331,9 @@
       <workItem from="1635242392403" duration="772000" />
       <workItem from="1635243173442" duration="12340000" />
       <workItem from="1635331576807" duration="70384000" />
-      <workItem from="1635816735635" duration="23581000" />
+      <workItem from="1635816735635" duration="23969000" />
+      <workItem from="1635924238409" duration="34570000" />
+      <workItem from="1636334857415" duration="2421000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -403,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635759828645</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20211103">
+      <created>1635902237152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635902237152</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -508,7 +503,8 @@
     <MESSAGE value="20211026" />
     <MESSAGE value="20211027" />
     <MESSAGE value="20211101" />
-    <option name="LAST_COMMIT_MESSAGE" value="20211101" />
+    <MESSAGE value="20211103" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
