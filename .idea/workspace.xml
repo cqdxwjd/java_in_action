@@ -4,8 +4,44 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20212109 准备用于测试Hive数据倾斜的数据">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/apache/derby/SimpleApp.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20211224 运行 apache derby 官方例子 SimpleApp.java">
+      <change afterPath="$PROJECT_DIR$/properties/javadb-build-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/javadb-sample-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/mysql-build-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/mysql-sample-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/javadb/create-procedure-show-suppliers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/javadb/create-procedures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/javadb/create-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/javadb/drop-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/javadb/populate-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/mysql/create-procedure-show-suppliers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/mysql/create-procedures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/mysql/create-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/mysql/drop-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/mysql/populate-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/CachedRowSetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/CityFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/ClobSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/CoffeesFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/CoffeesTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/CoffeesTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/DatalinkSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/ExampleRowSetListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/FilteredRowSetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/JDBCTutorialUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/JdbcRowSetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/JoinSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/ProductInformationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/RSSFeedsTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/StateFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/StoredProcedureJavaDBSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/StoredProcedureMySQLSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/SuppliersTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oracle/tutorial/jdbc/WebRowSetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/colombian-description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/rss-coffee-industry-news.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml/rss-the-coffee-break-blog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -41,6 +77,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/sql/SQLXML.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/sql/Connection.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,6 +109,9 @@
       </expand>
       <select />
     </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -166,11 +209,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589810449274" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/apache/derby" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -178,6 +221,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/apache/derby" />
       <recent name="$PROJECT_DIR$/src/main/java/desp" />
     </key>
@@ -186,26 +231,14 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleApp">
-    <configuration name="HJ70Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ70Main" />
+  <component name="RunManager" selected="Application.SuppliersTable">
+    <configuration name="JDBCTutorialUtilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oracle.tutorial.jdbc.JDBCTutorialUtilities" />
       <module name="java_in_action" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/properties/mysql-sample-properties.xml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HJ71Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ71Main" />
-      <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="PATTERN" value="com.oracle.tutorial.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,10 +262,23 @@
     <configuration name="SimpleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.apache.derby.SimpleApp" />
       <module name="java_in_action" />
-      <option name="PROGRAM_PARAMETERS" value="derbyclient" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.apache.derby.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuppliersTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oracle.tutorial.jdbc.SuppliersTable" />
+      <module name="java_in_action" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/properties/mysql-sample-properties.xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oracle.tutorial.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,31 +293,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HJ70Main" />
-      <item itemvalue="Application.HJ71Main" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.MockData" />
       <item itemvalue="Application.SimpleApp" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.JDBCTutorialUtilities" />
+      <item itemvalue="Application.SuppliersTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuppliersTable" />
+        <item itemvalue="Application.JDBCTutorialUtilities" />
         <item itemvalue="Application.SimpleApp" />
-        <item itemvalue="Application.MockData" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HJ71Main" />
-        <item itemvalue="Application.HJ70Main" />
+        <item itemvalue="Application.MockData" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +392,13 @@
       <workItem from="1640061486845" duration="43000" />
       <workItem from="1640314265416" duration="8427000" />
       <workItem from="1640341158842" duration="13000" />
-      <workItem from="1640341195138" duration="4976000" />
+      <workItem from="1640341195138" duration="5580000" />
+      <workItem from="1640400357882" duration="63000" />
+      <workItem from="1640400442608" duration="1535000" />
+      <workItem from="1640408247333" duration="5690000" />
+      <workItem from="1640418979820" duration="4334000" />
+      <workItem from="1640434109916" duration="2434000" />
+      <workItem from="1640591726623" duration="16437000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -423,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639052397684</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20211224 运行 apache derby 官方例子 SimpleApp.java">
+      <created>1640346420163</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640346420163</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -531,12 +592,65 @@
     <MESSAGE value="20211103" />
     <MESSAGE value="20211109" />
     <MESSAGE value="20212109 准备用于测试Hive数据倾斜的数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="20212109 准备用于测试Hive数据倾斜的数据" />
+    <MESSAGE value="20211224 运行 apache derby 官方例子 SimpleApp.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="20211224 运行 apache derby 官方例子 SimpleApp.java" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/NativeProtocol.java</url>
+          <line>640</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/NativeProtocol.java</url>
+          <line>695</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/NativeProtocol.java</url>
+          <line>701</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/NativeProtocol.java</url>
+          <line>531</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/MultiPacketReader.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/TimeTrackingPacketReader.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/SimplePacketReader.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21-sources.jar!/com/mysql/cj/protocol/a/SimplePacketReader.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.mysql.cj.result.DefaultColumnDefinition" memberName="fields" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="registeredDrivers" />
+        <watch expression="configs" />
+        <watch expression="res" />
+        <watch expression="loader" />
       </configuration>
     </watches-manager>
   </component>
