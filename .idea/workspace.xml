@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="20211228 查看通过jdbc查询mysql数据的源码调用流程">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ72Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ73Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ74Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ75Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ76Main.java" afterDir="false" />
+    <list default="true" id="35251bd1-039b-4b5b-9c41-38fc4d6b936f" name="Default Changelist" comment="2022-01-26华为机试题练习">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ77Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/SortCombine2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ71Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/HJ71Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,59 +206,7 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HJ76Main">
-    <configuration name="HJ72Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ72Main" />
-      <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HJ73Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ73Main" />
-      <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HJ74Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ74Main" />
-      <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HJ75Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ75Main" />
-      <module name="java_in_action" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tiku.niuke.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="HJ76Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ76Main" />
       <module name="java_in_action" />
@@ -275,33 +220,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="HJ77Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.HJ77Main" />
+      <module name="java_in_action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCombine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.SortCombine" />
+      <module name="java_in_action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCombine2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.SortCombine2" />
+      <module name="java_in_action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiku.niuke.huawei.Test" />
+      <module name="java_in_action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tiku.niuke.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HJ72Main" />
-      <item itemvalue="Application.HJ73Main" />
-      <item itemvalue="Application.HJ74Main" />
-      <item itemvalue="Application.HJ75Main" />
       <item itemvalue="Application.HJ76Main" />
+      <item itemvalue="Application.HJ77Main" />
+      <item itemvalue="Application.SortCombine" />
+      <item itemvalue="Application.SortCombine2" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SortCombine2" />
+        <item itemvalue="Application.SortCombine" />
+        <item itemvalue="Application.HJ77Main" />
         <item itemvalue="Application.HJ76Main" />
-        <item itemvalue="Application.HJ75Main" />
-        <item itemvalue="Application.HJ74Main" />
-        <item itemvalue="Application.HJ73Main" />
-        <item itemvalue="Application.HJ72Main" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +369,11 @@
       <workItem from="1641378438772" duration="2624000" />
       <workItem from="1641700476021" duration="125000" />
       <workItem from="1642999438486" duration="784000" />
-      <workItem from="1643092403725" duration="24919000" />
+      <workItem from="1643092403725" duration="25734000" />
+      <workItem from="1644283308083" duration="28000" />
+      <workItem from="1644283357792" duration="11294000" />
+      <workItem from="1646209567716" duration="197000" />
+      <workItem from="1646209785341" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="xiaomi interview questions">
       <created>1616407682073</created>
@@ -478,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640681438690</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2022-01-26华为机试题练习">
+      <created>1643189992605</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643189992605</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -588,9 +583,19 @@
     <MESSAGE value="20212109 准备用于测试Hive数据倾斜的数据" />
     <MESSAGE value="20211224 运行 apache derby 官方例子 SimpleApp.java" />
     <MESSAGE value="20211228 查看通过jdbc查询mysql数据的源码调用流程" />
-    <option name="LAST_COMMIT_MESSAGE" value="20211228 查看通过jdbc查询mysql数据的源码调用流程" />
+    <MESSAGE value="2022-01-26华为机试题练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-01-26华为机试题练习" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tiku/niuke/huawei/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.mysql.cj.result.DefaultColumnDefinition" memberName="fields" />
